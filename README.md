@@ -6,3 +6,5 @@ BeerRec is a react application used for finding a new beer; either random or bas
 
 https://beerrec-f35d2.web.app/
 
+![Screenshot of BeerRec](https://i.imgur.com/1XSn4Ma.png)
+
